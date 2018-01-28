@@ -1,0 +1,43 @@
+name: AuriosAPI
+version: 0.0.1
+author: Bart // Aurios
+main: me.BartVV.AuriosAPI.Core
+commands:
+  reply:
+    aliases:
+    - r
+  msg:
+    aliases:
+    - m
+    - sendmessage
+    - message
+    - pm
+  togglepm: null
+  fly: null
+  butcher: null
+  ignorepm:
+    aliases:
+    - ignore
+    - togglepm
+    - tpm
+    - ipm
+  areload: null
+  help: null
+  sethub:
+    aliases:
+    - setspawn
+    - setlobby
+  hub:
+    aliases:
+    - spawn
+    - lobby
+  save: null
+  stop: null
+  stopconfirm: null
+  gamemode:
+    aliases:
+    - gm
+  join: null
+  togglejoin:
+    aliases:
+    - tg
